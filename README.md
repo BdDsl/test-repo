@@ -3,7 +3,7 @@
 You can use the [editor on GitHub](https://github.com/BdDsl/test-repo/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [BdDsl](https://bddsl.github.io/) to rebuild the pages in your site, from the content in your Markdown files.
-[Link](https://web.dishang.com.bd/wp-content/uploads/2019/03/Logo.png) and ![Logo](src)
+[Link](url) and ![Image](src)
 
 ### Markdown
 
